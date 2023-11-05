@@ -20,7 +20,7 @@ languageButton.addEventListener('click', () => {
         .then(response => response.json())
         .then(data => {
 
-            document.getElementById('profileTitle').textContent = data.profile;
+            document.getElementById('profileTitle').textContent = data.profileTitle;
             document.getElementById('internships').textContent = data.internships;
             document.getElementById('education').textContent = data.education;
             document.getElementById('projects').textContent = data.projects;
