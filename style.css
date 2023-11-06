@@ -9,12 +9,12 @@ h1 {
     font-size: 3em;
     letter-spacing: .1em;
     padding-top: 1em;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.2em;
 }
 
 h2 {
     font-size: 1.5em;
-    padding-bottom: 0em;
+    padding-bottom: 0.2em;
 }
 
 h3 {
@@ -33,7 +33,7 @@ header {
 }
 
 section {
-    margin: 1em 1em 4em 2em;
+    margin: 0.5em 0em 4em 2em;
 }
 
 i {
@@ -41,7 +41,7 @@ i {
 }
 
 p {
-    margin: .2em auto;
+    margin: .2em 0em;
 }
 
 hr {
@@ -70,5 +70,9 @@ h1, h2, h3 {
 }
 
 .section-title i {
-    margin-right: 0.5em; /* Adjust the spacing between the icon and the text */
+    margin-right: 0.5em; 
+}
+
+.text-box {
+    margin-right: 2em;    
 }

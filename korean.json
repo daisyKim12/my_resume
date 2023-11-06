@@ -17,7 +17,7 @@
         "title": "인턴십",
         "items": [
         {
-            "body": "ADAS Platform Developer at Hyundai Mobis",
+            "body": "<Scholoship> ADAS Platform Developer at Hyundai Mobis",
             "date": "July 2023 ~ Aug 2023",
             "bullets": [
             "Edge AI 보드의 u-boot 및 Linux 커널을 이식함.",
@@ -34,13 +34,11 @@
         "universityDate": "2018년 3월 ~ 2024년 9월",
         "bullets": [
         "총 학점: 3.91, 전공 학점: 3.99",
-        "Neural Network Embedded System 디자인에 특화",
-        "최고 성적 모듈",
-        {
-            "subject1": "Electric Circuit",
-            "subject2": "Micro processor",
-            "subject3": "Artificial Intelligence"
-        }
+        [
+            "5학기: 4.5", "6학기: 4.41"
+        ],
+        "성적 장학금 3회, 현대모비스 장학생",
+        "고전압 회로 학회(토르) 학회장"
         ]
     },
 
