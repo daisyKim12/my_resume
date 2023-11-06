@@ -1,7 +1,38 @@
 {
+    "header":"AI System Programer",
     "profileTitle": "프로필",
-    "profileBody": "하하",
+    "profileBody": "저는 성균관대학교 전기전자공학과 4학년 재학 중인 김석진입니다. 제 관심 분야는 Edge device 에서 인공지능 최적화와 차세대 AI processor 전용 미들웨어 개발입니다. 2학년부터 소프트웨어에 관심이 생겨 독학으로 안드로이드 앱 개발을 하면서 임베디드 공부를 본격적으로 하게 되었습니다. 이후, 기계학습, 인공지능을 공부하면서 Edge device내 deep learning에 관심을 가지게 되었고 tensorflow나 pytorch를 사용하면서 자율주행 자동차를 만드는 프로젝트를 했습니다. 현대 모비스 ADAS 플렛폼에서 미들웨어 인턴십을 하면서 시스템 프로그램에 관심을 가지게 되어 현재 시스템 프로그램, 운영체제, 데이터베이스 공부를 하며 프로젝트를 진행하고 있습니다. ",
+    "interestTitle": "관심분야",
+    "interestBullet1": "AI processor compiler",
+    "interestBullet2": "System programing for ai edge device",
+    "interestBullet3": "Deep learning Optimization",
+
     "internshipsTitle": "인턴십",
+    "internship1Body": "ADAS Platform Developer at Hyundai Mobis",
+    "internship1Date": "July 2023 ~ Aug 2023",
+    "internship1Bullet1": "Ported u-boot and Linux kernel in Edge AI board.",
+    "internship1Bullet2": "Developed and ported Linux Applications.",
+    "internship1Bullet3": "Analysing communication Edge AI board",
+    "internship1Bullet4": "Automated communication programs and optimized code.",
+    
     "educationTitle": "교육",
-    "projectsTitle": "프로젝트"
+    "educationUniversity": "Electircal Engineer, Sungkyunkwan University",
+    "educationUniversityDate": "Mar, 2018 ~ Sep, 2024",
+    "educationBullet1": "총 학점: 3.91, 전공 학점: 3.99",
+    "educationBullet2": "Specialized in Neural Network Embedded System design",
+    "educationBullet3": "Highest- scoring modules",
+    "educationNestedBullet1": "Electric Circuit",
+    "educationNestedBullet2": "Micro processor",
+    "educationNestedBullet3": "Artificial Intelligence",
+
+    "projectsTitle": "프로젝트",
+    "project1Title": "pytorch 환경에서 Resnet18, Yolov5 모델을 이용한 자율주행 자동차",
+    "project1Body": "Creating a self-driving car by connecting a JETSON Nano board with a child-friendly car. I am designing and modifying artificial intelligence algorithms to implement autonomous driving for the car. I am also incorporating image recognition using YOLO, to stop the car on stop sign.",
+    "prigect1Link": "https://github.com/daisyKim12/autonomous_driving",
+    "project2Title": "Postgres DB 를 이용한 java 기반 Auction 프로그램",
+    "project2Body": "This progect, I designed, implemented, documented, and tested a database system for an online auction site. DB: PostgresDB Auction Program: JAVA",
+    "project3Link": "https://github.com/daisyKim12/Auction_DB",
+    "project3Title": "Server와 네트워킹을 하는 kotlin 기반 SNS 안드로이드 앱",
+    "project3Body": "Collaborated with a server to develop an SNS application. Created API specifications and utilized RecyclerView, MultiViewType, and Multi-Thread for efficient implementation. Developed API specifications, implemented views using RecyclerView and MultiViewType, and optimized performance through Multi-Thread utilization.",
+    "project3Link": "https://github.com/daisyKim12/Instagram"
 }
