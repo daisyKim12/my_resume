@@ -24,7 +24,7 @@ h3 {
 
 main {
     display: grid;
-    grid-template-columns: 5fr 2fr;
+    grid-template-columns: 7fr 3fr;
 }
 
 header {
@@ -74,5 +74,11 @@ h1, h2, h3 {
 }
 
 .text-box {
-    margin-right: 2em;    
+    margin-right: 1.5em;    
+}
+
+#my-image {
+    padding: 1em;
+    max-width: 80%;
+    height: auto;
 }
