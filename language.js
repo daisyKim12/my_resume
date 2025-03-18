@@ -3,7 +3,7 @@ const koreanTextPath = 'korean.json';
 const englishTextPath = 'english.json';
 
 // 기본 언어 설정 (한국어)
-let currentLanguage = 'korean';
+let currentLanguage = 'english';
 
 // 버튼 클릭 이벤트 처리
 const languageButton = document.getElementById('language-button');
