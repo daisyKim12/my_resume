@@ -1,6 +1,56 @@
 {
-    "profileTitle": "Profile",
-    "internshipsTitle": "Internships",
-    "educationTitle": "Education",
-    "projectsTitle": "Projects"
+    "header":"AI System Programer",
+    
+    "profile": {
+        "title": "Profile",
+        "body": "I am Sㅕkjin Kim, a second-semester graduate student in the Department of Electrical and Computer Engineering at Seoul National University. My research interests include accelerating AI models using multi-GPU systems and optimizing models with CXL and AI accelerators. I primarily focus on optimizing single-GPU kernels using CUDA and apply this expertise to the field of approximate nearest neighbor (ANN) search in vector databases to efficiently retrieve similar information. My research aims to integrate this into retrieval-augmented generation (RAG). Additionally, I study scalable ANN methods using multi-GPU systems, and I have submitted a paper on multi-GPU scalable ANN, which is currently under review. I am also researching scalable solutions for vector database search using memory expanders like CXL and exploring ways to accelerate this process further by utilizing near-memory processors on CXL devices.    },
+    "interests": {
+        "title": "Interest",
+        "bullets": [
+        "Nvidia multi GPU acceleration",
+        "System programing for ai edge device",
+        "Application acceleration using CXL"
+        ]
+    },
+    "internships": {
+        "title": "Internships",
+        "items": [
+        {
+            "body": "<Scholoship> ADAS Platform Developer at Hyundai Mobis",
+            "date": "July 2023 ~ Aug 2023",
+            "bullets": [
+            "Ported U-Boot and Linux kernel for Edge AI boards.",
+            "Analyzed communication between Edge AI boards."
+            ]
+            "body": "AISYS lab internship at SNU",
+            "date": "Dec 2023 ~ Feb 2024",
+            "bullets": [
+            "Accelerating LLM using NVIDIA Edge Devices (Jetson Boards)",
+            "Analyzing GPU Unified Memory Characteristics and R/W Contention"
+            ]
+        }
+        ]
+    },
+    "education": {
+        "title": "Education",
+        "university": "Sungkyunkwan University, Department of Electrical and Electronic Engineering",
+        "universityDate": "March 2018 – September 2024",
+        "bullets": [
+            "Cumulative GPA: 4.08, Major GPA: 4.15",
+            "Received three academic scholarships, Hyundai Mobis Scholar",
+            "President of the High Voltage Circuit Society (Thor)"
+        ]
+    }
+
+    "Paper": [
+        {
+        "title": "Paper",
+        "items": [
+            {
+            "title": "PathWeaver: A High-Throughput Multi-GPU System for Graph-Based Approximate Nearest Neighbor Search",
+            "body": "Under Review"
+            }
+        ]
+        }
+    ]
 }
